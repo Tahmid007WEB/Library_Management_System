@@ -1,0 +1,15 @@
+
+# Ignore build and compiled files
+*.class
+/build/
+/out/
+
+# Ignore IDE specific files
+*.iml
+.idea/
+*.nbproject
+
+# Ignore log and temporary files
+*.log
+*.tmp
+.DS_Store
